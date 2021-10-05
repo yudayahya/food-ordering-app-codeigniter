@@ -12,8 +12,7 @@ This project is licensed under the terms of the MIT license.
 
 [Admin Dashboard](https://thecrabbys.net/admin)
 
-Use this user for sign in on admin dashboard.
-
+Use this user for sign in on admin dashboard. <br>
 username : yudayahya
 
 password : 1234
