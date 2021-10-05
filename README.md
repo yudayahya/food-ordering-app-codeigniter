@@ -8,13 +8,10 @@ This project is licensed under the terms of the MIT license.
 - You can see the code on master branch.
 
 ## See on Web
-[thecrabbys.net](https://thecrabbys.net/)
-
-[Admin Dashboard](https://thecrabbys.net/admin)
-
-Use this user for sign in on admin dashboard. <br>
-username : yudayahya
-
+[The Crabbys](https://thecrabbys.net/) <br>
+[Admin Dashboard](https://thecrabbys.net/admin) <br>
+Use this user for sign in. <br>
+username : yudayahya <br>
 password : 1234
 
 ## Contributing
