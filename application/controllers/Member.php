@@ -411,11 +411,11 @@ class Member extends CI_Controller
     {
         $config = [
             'protocol' => 'smtp',
-            'smtp_host' => 'mail.thecrabbys.net',
-            'smtp_user' => 'info@thecrabbys.net',
-            'smtp_pass' => 'yuda63136',
+            'smtp_host' => 'YOUR_SMTP_HOST',
+            'smtp_user' => 'YOUR_SMTP_USER',
+            'smtp_pass' => 'YOUR_SMTP_PASSWORD',
             'smtp_crypto' => 'ssl',
-            'smtp_port' => 465,
+            'smtp_port' => 'YOUR_SMTP_PORT',
             'mailtype' => 'html',
             'charset' => 'utf-8',
             'newline' => "\r\n"
